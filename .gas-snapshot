@@ -1,0 +1,6 @@
+CounterTest:testFuzz_SetNumber(uint256) (runs: 256, μ: 27320, ~: 28409)
+CounterTest:test_Increment() (gas: 28379)
+WhitelistPluginTest:test_RevertWhen_NonWhitelistedAddressAttemptAction() (gas: 74595)
+WhitelistPluginTest:test_RevertWhen_nonAdminCallsWhitelist() (gas: 19985)
+WhitelistPluginTest:test_whitelist() (gas: 36741)
+WhitelistPluginTest:test_whitelistedAddressCanPerformActions() (gas: 513642)
